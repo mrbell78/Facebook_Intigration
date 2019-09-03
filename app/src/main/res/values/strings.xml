@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Facebookintigration</string>
+    <string name="facebook_app_id">2474639412772612</string>
+    <string name="fb_login_protocol_scheme">fb2474639412772612</string>
+</resources>
